@@ -1,5 +1,8 @@
 # Rahul R — Portfolio (Next.js)
 
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/rahulraji18/portfolio-next.js)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white)](https://portfolio-next-e1ixnn2xr-rahulraji18s-projects.vercel.app/)
+
 A single-page developer portfolio built with the Next.js App Router, TypeScript, and a Three.js
 network-graph background scene.
 
@@ -8,6 +11,8 @@ network-graph background scene.
 **Author:** Rahul Rajeevan — rahulrajesh474@gmail.com
 
 GitHub: https://github.com/rahulraji18 · LinkedIn: https://www.linkedin.com/in/rahul-rajeevan/
+
+Repository: https://github.com/rahulraji18/portfolio-next.js
 
 </div>
 
