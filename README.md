@@ -70,6 +70,14 @@ It will also run on any Node host that supports Next.js (`npm run build && npm s
 
 See `DEPLOY.md` for additional deployment tips and environment-variable guidance.
 
+## Live Demo
+
+Visit the live site: https://portfolio-next-e1ixnn2xr-rahulraji18s-projects.vercel.app/
+
+```text
+https://portfolio-next-e1ixnn2xr-rahulraji18s-projects.vercel.app/
+```
+
 ## Notes
 
 - The background scene respects `prefers-reduced-motion` (renders one static frame instead of
